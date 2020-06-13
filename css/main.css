@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+header{
+    height: 70px;
+    position: fixed;
+    background: transparent;
+    width: 100%;
+    top: 0px;
+    z-index: 11;
+}
+.mainlogo img{
+    padding: 50px 55px;
+    
+}
+
+/* hero css */
+.hero{
+    height: 100vh;
+    background: url('../images/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* who we are css */
+.who-weare{
+    height: 100vh;
+    background: #aaa;
+}
+
+/* process css */
+.our-process{
+    background: #eee;
+    height: 100vh;
+}
+
+/* core pillar css */
+.core-pillars{
+    height: 100vh;
+    background: #aaa;
+}
+
+/* services css */
+.our-services{
+    height: 100vh;
+    background: #fde6e6;
+}
+
+/* products css */
+.main-prods{
+    height: 100vh;
+    background: #aaa;
+}
+
+/* clients */
+.our-clients{
+    height: 100vh;
+    background: #fde6e6;
+}
